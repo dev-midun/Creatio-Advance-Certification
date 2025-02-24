@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1eb9561f-dd25-0a20-e6b0-46c45a86c4f4.Caption" Value="Filter owner, only show employee type" />
+			<Item Name="Caption" Value="Concerts (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

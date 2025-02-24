@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrConcerts/Schemas/UsrConcerts/UsrConcerts.cs" Condition="Exists('$(PkgPath)/UsrConcerts/Schemas/UsrConcerts/UsrConcerts.cs')" />
+		<Compile Include="$(PkgPath)/UsrConcerts/Schemas/UsrConcertType/UsrConcertType.cs" Condition="Exists('$(PkgPath)/UsrConcerts/Schemas/UsrConcertType/UsrConcertType.cs')" />
+		<Compile Include="$(PkgPath)/UsrConcerts/Schemas/UsrPerformances/UsrPerformances.cs" Condition="Exists('$(PkgPath)/UsrConcerts/Schemas/UsrPerformances/UsrPerformances.cs')" />
+		<Compile Include="$(PkgPath)/UsrConcerts/Schemas/UsrPerformanceType/UsrPerformanceType.cs" Condition="Exists('$(PkgPath)/UsrConcerts/Schemas/UsrPerformanceType/UsrPerformanceType.cs')" />
+	</ItemGroup>
+</Project>

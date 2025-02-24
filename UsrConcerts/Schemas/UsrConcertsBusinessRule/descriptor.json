@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "683508fa-9d6e-44cf-a765-59f4266da309",
+    "Name": "UsrConcertsBusinessRule",
+    "ModifiedOnUtc": "\/Date(1740364293000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Concerts (Business rules)",
+    "DependsOn": []
+  }
+}

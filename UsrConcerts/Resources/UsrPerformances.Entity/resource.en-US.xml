@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Performances" />
+			<Item Name="Columns.UsrConcert.Caption" Value="Concert" />
+			<Item Name="Columns.UsrDurationMinutes.Caption" Value="Duration, minutes" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNumber.Caption" Value="Number" />
+			<Item Name="Columns.UsrType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

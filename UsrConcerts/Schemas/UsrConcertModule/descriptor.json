@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "85d6e389-5507-4c14-adef-f669760cd042",
+    "Name": "UsrConcertModule",
+    "ModifiedOnUtc": "\/Date(1740393593000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Concert Module",
+    "DependsOn": []
+  }
+}

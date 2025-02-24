@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d441efe-d688-41cb-8cdc-3cd8d5708f45",
+    "Name": "UsrConcerts",
+    "ModifiedOnUtc": "\/Date(1740364368000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Concerts",
+    "DependsOn": []
+  }
+}

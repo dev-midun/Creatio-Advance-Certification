@@ -1,0 +1,8 @@
+﻿{
+  "Properties": {
+    "AddonName": "RelatedPage",
+    "CreatedInVersion": "8.2.2.1859",
+    "TargetSchemaManagerName": "EntitySchemaManager",
+    "TargetSchemaUId": "67affe49-c5c8-4156-b5f7-64e8f98fb4c1"
+  }
+}

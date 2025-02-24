@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "391f3cc2-2972-4d4f-9eeb-e73b6a33850b",
+    "Name": "UsrConcerts_ListPage",
+    "ModifiedOnUtc": "\/Date(1740393700000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Concerts list page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d95097f3-696e-49e8-b347-61f4297bdbe5",
+    "Name": "UsrConcerts_FormPage",
+    "ModifiedOnUtc": "\/Date(1740398695000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Concerts form page",
+    "DependsOn": []
+  }
+}

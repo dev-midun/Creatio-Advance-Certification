@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "abc063a6-7896-4825-a82b-d8c25cc41be3",
+      "A2": "UsrConcertsRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "3d441efe-d688-41cb-8cdc-3cd8d5708f45",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "cc40480b-4332-43a9-87db-732b22fca5dd",
+            "PageSchemaUId": "d95097f3-696e-49e8-b347-61f4297bdbe5",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

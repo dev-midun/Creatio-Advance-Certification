@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Performances modal page" />
+			<Item Name="LocalizableStrings.addRecord_vvjv5ki_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_z9romx2_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Label_MaxDurationLabel_caption.Value" Value="Max duration: " />
+			<Item Name="LocalizableStrings.Label_MaxDurationValue_caption.Value" Value="$MaxDurationValue" />
+			<Item Name="LocalizableStrings.Label_TotalDurationLabel_caption.Value" Value="Total duration:" />
+			<Item Name="LocalizableStrings.Label_TotalDurationValue_caption.Value" Value="$TotalDurationValue" />
+		</Items>
+	</Group>
+</Resources>

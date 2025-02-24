@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c5a38046-3522-46db-aab5-5260696d849d",
+    "Name": "UsrConcertService",
+    "ModifiedOnUtc": "\/Date(1740391842000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Concert Service",
+    "DependsOn": []
+  }
+}
